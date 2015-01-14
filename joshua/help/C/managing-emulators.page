@@ -1,0 +1,21 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      type="topic"
+      id="managing-emulators">
+
+<info>
+  <!-- edit xref to re-locate this topic in the help hierarchy -->
+  <link type="guide" xref="index#contents"/>
+  <credit type="author">
+    <name>Adam Gignac</name>
+    <email>gignac.adam@gmail.com</email>
+    <years>2012</years>
+  </credit>
+  <desc>The stuff that runs your games</desc>
+</info>
+
+<title>Managing Emulators</title>
+<p>Joshua needs to know which emulator to use for each game. Games are sorted by platform; they can be browsed by using the tabs on the left side of the window.</p>
+<p>To add an emulator, click on the <gui>Add Emulator</gui> button in the toolbar. You will be prompted to name the platform and provide a command to use to run games associated with this platform</p>
+<p>To edit or remove an existing emulator, right-click on the tab for the emulator and select the appropriate option from the menu.</p>
+
+</page>

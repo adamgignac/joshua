@@ -1,0 +1,23 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      type="topic"
+      id="getting-started">
+
+<info>
+  <!-- edit xref to re-locate this topic in the help hierarchy -->
+  <link type="guide" xref="index#contents"/>
+  <credit type="author">
+    <name>Adam Gignac</name>
+    <email>gignac.adam@gmail.com</email>
+    <years>2012</years>
+  </credit>
+  <desc>How to begin</desc>
+</info>
+
+<title>Getting Started</title>
+<p>When you first run Joshua, you will be prompted to add your first emulator. Joshua needs to know what emulators you have installed in order to organize your games. Simply enter the title of the platform and the emulator command when prompted.</p>
+<p>For example, to add the FCEUX emulator for NES games, enter <cmd>NES</cmd> in the first dialog and <cmd>fceux</cmd> in the second.</p>
+<note><p>For more information on emulators, refer to <link xref="managing-emulators"/>.</p></note>
+<p>Once you've registered an emulator, you're ready to begin adding games. Click on the <gui>Add Game</gui> button in the toolbar. A window will appear allowing you to enter the metadata for the game. The <gui>Platform</gui> field will only show emulators that you've already registered.</p>
+<note style="important"><p>Be careful when filling the first two fields! As the game name and platform are used by Joshua internally to organize the library, you will be unable to edit them once the game has been added.</p></note>
+<note><p>For more information on games, refer to <link xref="managing-games"/>.</p></note>
+</page>

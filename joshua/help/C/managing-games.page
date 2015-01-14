@@ -1,0 +1,21 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      type="topic"
+      id="managing-games">
+
+<info>
+  <!-- edit xref to re-locate this topic in the help hierarchy -->
+  <link type="guide" xref="index#contents"/>
+  <credit type="author">
+    <name>Adam Gignac</name>
+    <email>gignac.adam@gmail.com</email>
+    <years>2012</years>
+  </credit>
+  <desc>The stuff you play</desc>
+</info>
+
+<title>Managing Games</title>
+<p>To add a game to Joshua's library, click on the <gui>Add Game</gui> button in the toolbar. A window will appear allowing you to enter the metadata for the game. The platform field will contain all the emulators you've already registered.</p>
+<note style="important"><p>Be careful when filling the first two fields! As the game name and platform are used by Joshua internally to organize the library, you will be unable to edit them once the game has been added.</p></note>
+<p>To edit an existing game, select it in the list and click <gui>Edit Game</gui>. A window will appear allowing you to edit all data except for the name and platform (as mentioned above).</p>
+<p>To remove a game, select it in the list and click <gui>Remove Game</gui>.</p>
+</page>

@@ -1,0 +1,60 @@
+joshua (13.05) raring; urgency=low
+
+  * New release.
+
+ -- Adam Gignac <gignac.adam@gmail.com>  Thu, 09 May 2013 14:57:43 -0400
+
+joshua (13.04.1-public1) raring; urgency=low
+
+  * New release.
+
+ -- Adam Gignac <gignac.adam@gmail.com>  Sun, 28 Apr 2013 17:31:14 -0400
+
+joshua (13.04.1) quantal; urgency=low
+
+  * New release.
+
+ -- Adam Gignac <gignac.adam@gmail.com>  Wed, 24 Apr 2013 01:48:07 -0400
+
+joshua (13.04ubuntu1) UNRELEASED; urgency=low
+
+  * Change to dark toolbar
+  * Pre-upgrade checkpoint
+
+ -- Adam Gignac <gignac.adam@gmail.com>  Tue, 23 Apr 2013 15:35:47 -0400
+
+joshua (13.04) quantal; urgency=low
+
+  * Remove redundant and ugly button
+
+ -- Adam Gignac <gignac.adam@gmail.com>  Tue, 23 Apr 2013 15:35:47 -0400
+
+joshua (1.0-public5) quantal; urgency=low
+
+  * New release.
+
+ -- Adam Gignac <gignac.adam@gmail.com>  Tue, 19 Feb 2013 17:22:45 -0500
+
+joshua (1.0-public4) quantal; urgency=low
+
+  * New release.
+
+ -- Adam Gignac <gignac.adam@gmail.com>  Sat, 16 Feb 2013 16:11:57 -0500
+
+joshua (1.0-public3) quantal; urgency=low
+
+  * New release.
+
+ -- Adam Gignac <gignac.adam@gmail.com>  Fri, 26 Oct 2012 14:38:08 -0400
+
+joshua (1.0-public2) precise; urgency=low
+
+  * New release.
+
+ -- Adam Gignac <gignac.adam@gmail.com>  Fri, 31 Aug 2012 21:56:23 -0400
+
+joshua (1.0-public1) precise; urgency=low
+
+  * Initial release.
+
+ -- Adam Gignac <gignac.adam@gmail.com>  Fri, 31 Aug 2012 21:50:18 -0400

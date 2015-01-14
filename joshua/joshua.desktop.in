@@ -1,0 +1,8 @@
+[Desktop Entry]
+_Name=Joshua
+_Comment=Joshua ROM/Emulator Manager
+Categories=GNOME;Games;
+Exec=joshua
+Icon=joshua
+Terminal=false
+Type=Application
